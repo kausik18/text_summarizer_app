@@ -10,8 +10,8 @@ Follow these steps to set up and run the application on your system.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/text_summarizer_2_app.git
-cd text_summarizer_2_app
+git clone https://github.com/your-username/text_summarizer_app.git
+cd text_summarizer_app
 ```
 
 ### 2. Create and Activate a Virtual Environment
